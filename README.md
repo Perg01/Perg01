@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Jaspreet Singh/Perg01 
+# 🏋️‍♂️ Perg01 (Jaspreet Singh)
 
 Hi there! I'm a computer science student, deeply intrigued by the ever-evolving tech landscape. In my spare time, I immerse myself in developing web-based personal projects that fuel my curiosity and ignite creativity. Whether designing sleek interfaces or delving into the backend, I'm driven by the challenge of bringing ideas to life through code.
 
